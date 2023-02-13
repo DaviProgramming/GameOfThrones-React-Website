@@ -28,6 +28,10 @@ npm install
 ![Image3](https://i.imgur.com/HrS2bMt.png)
 ![Image4](https://i.imgur.com/5MDBMr6.png)
 
+Link da aplicação na Vercel:
+
+https://game-of-thrones-react.vercel.app/
+
 
 ### Minhas Redes Sociais :
 [Instagram](https://www.instagram.com/asdavidoliveira/) | 
